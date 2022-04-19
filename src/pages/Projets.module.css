@@ -1,0 +1,36 @@
+.Projets {
+  background: rgb(175, 110, 18);
+  background: linear-gradient(
+    90deg,
+    rgba(175, 110, 18, 1) 0%,
+    rgba(152, 142, 86, 1) 38%,
+    rgba(117, 120, 0, 1) 100%
+  );
+  padding-bottom: 4%;
+  color: white;
+  padding-top: 80px;
+}
+.Projets .container .image .portrait {
+  height: 500px;
+  border-radius: 10%;
+  width: 95%;
+  height: 95%;
+  padding-left: 3%;
+}
+.Projets .container {
+  display: flex;
+  padding-bottom: 5%;
+}
+.Projets .container .text {
+  width: 48%;
+  margin-left: 3%;
+}
+.Projets .container .text h2 {
+  font-weight: 900;
+  font-size: 36px;
+}
+.Projetss .container .image {
+  width: 50%;
+  display: flex;
+  justify-content: center;
+}

@@ -1,0 +1,33 @@
+.Qualifications {
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(9, 9, 121, 1) 35%,
+    rgba(175, 110, 18, 1) 100%
+  );
+  padding-bottom: 4%;
+  color: white;
+  padding-top: 80px;
+}
+.Qualifications .container .image .portrait {
+  height: 500px;
+  border-radius: 10%;
+}
+.Qualifications .container {
+  display: flex;
+  padding-bottom: 5%;
+}
+.Qualifications .container .text {
+  width: 48%;
+  margin-left: 3%;
+}
+.Qualifications .container .text h2 {
+  font-weight: 900;
+  font-size: 36px;
+}
+.Qualifications .container .image {
+  width: 50%;
+  display: flex;
+  justify-content: center;
+}

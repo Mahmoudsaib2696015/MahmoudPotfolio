@@ -1,0 +1,6 @@
+https://ifm26039.gitlab.io/notes-de-cours/
+https://fr.reactjs.org/docs
+https://www.udemy.com/courses/development/web-development/
+https://www.youtube.com/channel/UCMOyu20P38BXmTQmw80Sf2w/featured
+https://www.youtube.com/channel/UCOxWrX5MIdXIeRNaXC3sqIg
+https://stackoverflow.com/questions/44605873/react-warning-css-is-defined-but-never-used-no-unused-vars

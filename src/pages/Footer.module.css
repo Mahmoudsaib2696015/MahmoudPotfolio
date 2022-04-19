@@ -1,0 +1,32 @@
+.Footer {
+  margin-bottom: 0;
+  color: white;
+  background: rgb(0, 0, 0);
+  background: linear-gradient(
+    90deg,
+    rgba(0, 0, 0, 1) 0%,
+    rgba(19, 19, 18, 1) 38%,
+    rgba(117, 120, 0, 1) 100%
+  );
+}
+.Footer .container h1 {
+  display: flex;
+  font-weight: 900;
+  font-size: 24px;
+  justify-content: center;
+  padding: 0 10%;
+}
+.Footer .container h2 {
+  display: flex;
+  font-weight: 900;
+  font-size: 20px;
+  padding-left: 10%;
+}
+.Footer .container ul li {
+  display: inline-block;
+  margin: 20px;
+  justify-content: center;
+  padding-left: 5%;
+  padding-bottom: 10%;
+  margin-bottom: 0;
+}

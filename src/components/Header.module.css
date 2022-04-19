@@ -1,0 +1,16 @@
+.container {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 2%;
+}
+.container hr {
+  position: absolute;
+  left: 0;
+  width: 260px;
+  border: 2px solid #00d4ff;
+}
+.container h1 {
+  color: aliceblue;
+}
